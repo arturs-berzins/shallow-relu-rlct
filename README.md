@@ -1,4 +1,4 @@
-# ReLU RLCT
+# Shallow ReLU RLCT
 
 Compute exact local learning coefficients for shallow ReLU networks on finite data. Give the tool a dataset of inputs and a network at the point you want to study. It uses that network's predictions as targets and analyzes the squared loss as all weights and biases vary near the supplied point.
 
